@@ -1,0 +1,12 @@
+.container {
+  height: 20vh;
+}
+
+.descriptionHeader {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-size: 50px;
+}
